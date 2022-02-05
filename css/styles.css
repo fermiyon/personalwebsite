@@ -1,0 +1,39 @@
+body {
+  font-family: 'Lato';
+  font-weight: 300;
+  align-items: center;
+  margin-top: 41px;
+  margin-bottom: 41px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #f9f9f9 ;
+}
+body, a {
+  color: #2DAF94 /*#C8F6ED*/;
+}
+hr {
+  border-color: #3EC8AC;
+  border-width: 3px;
+  border-style: dotted none none none;
+}
+
+h1, h2 {
+  color: #40514E
+}
+
+p {
+  font-size: 1.1em;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-weight: 300;
+  font-size: 5em;
+}
+h2 {
+  font-weight: 300;
+}
+
+.foto {
+  border-radius: 11px;
+}
