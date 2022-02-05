@@ -6,10 +6,10 @@ body {
   margin-bottom: 41px;
   margin-left: 0px;
   margin-right: 0px;
-  background-color: #f9f9f9 ;
+  background-color: #2DAF94;
 }
 body, a {
-  color: #2DAF94 /*#C8F6ED*/;
+  color: #C8F6ED;
 }
 hr {
   border-color: #3EC8AC;
@@ -28,7 +28,7 @@ p {
 h1 {
   font-family: 'Sacramento', cursive;
   font-weight: 300;
-  font-size: 5em;
+  font-size: 3.5em;
 }
 h2 {
   font-weight: 300;
